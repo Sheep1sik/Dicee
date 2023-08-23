@@ -1,31 +1,29 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
-# Dicee
-
-## Our Goal
-
-The objective of this tutorial is to introduce you to the core programming concepts that will form the foundation of most of the apps you’ll build in the future. This app will teach you a lot of important programming knowledge, while building a neat dice app.
-
-## What you will create
-
-We’re going to make a Las Vegas dice app. You can make the die roll at the press of a button or by shaking your phone. With this app in your pocket, you’ll be fully set up to settle any score on the go!
+# Swift-iOS_App-project-Dicee
+스위프트 간단한 다이스 앱
 
 
-## What you will learn
-
-* How to clone an existing Xcode project from GitHub.
-* Create an app with behaviour and functionality.
-* Create links between the Interface Builder files and code using IBActions and IBOutlets.
-* Get familiar with the Xcode code editor.
-* * Learn to use comments to annotate code.
-* Understand and use Swift constants and variables.
-* Understand and use collection types such as Swift arrays.
-* Test and debug your app with the Xcode console.
-* Learn about randomisation and how to generate random numbers in Swift.
+## 💻 소개
+간단한 다이스 앱을 만들어 보았습니다.
 
 
 
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+## ⌚️ 개발 기간
+ * 23.08.23
 
-![End Banner](Documentation/readme-end-banner.png)
+## ⚙️ 개발 환경
+ - 'Swift 5'
+ - **IDE** : Xcode Version 14.2 (14C18)
+
+
+## 📌 주요 기능
+ #### 랜덤값을 이용한 사진 변경 - diceImageArray 배열을 만들어 이미지를 넣은 후 Roll 버튼을 누를떄마다 랜덤 이미지로 바꾸어 사용자에게 보여준다.
+
+
+
+
+
+
+
+
+
 
