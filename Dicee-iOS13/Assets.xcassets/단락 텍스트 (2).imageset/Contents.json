@@ -1,15 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "The GGDol APP.png",
+      "filename" : "단락 텍스트 (2).png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
+      "filename" : "단락 텍스트 (2)@2x.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
+      "filename" : "단락 텍스트 (2)@3x.png",
       "idiom" : "universal",
       "scale" : "3x"
     }

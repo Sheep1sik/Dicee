@@ -17,12 +17,14 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        diceImageView1.image = diceImageArray.randomElement()
+        diceImageView2.image = diceImageArray.randomElement()
         
-        
-        
+        /*
         //WHO          WHAT      VALUE
         diceImageView1.image = #imageLiteral(resourceName: "DiceSix") //#imageLiteral()
         diceImageView2.image = UIImage(imageLiteralResourceName: "DiceTwo")
+         */
     
     }
 
